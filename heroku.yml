@@ -1,0 +1,11 @@
+setup:
+  addons:
+    - plan:
+      as:
+  config:
+  // .env vars
+build:
+  docker:
+    api: api/dockerfile
+    nginx: nginx/dockerfile
+  config:

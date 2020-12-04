@@ -1,0 +1,12 @@
+flask
+gunicorn
+gensim
+nltk
+numpy
+pandas
+regex
+scipy
+openpyxl
+Pdfminer-six==20181108
+xlrd>=1.0.0
+
